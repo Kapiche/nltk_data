@@ -1,5 +1,5 @@
 PYTHON = python3
-BASEURL = https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages
+BASEURL = https://raw.githubusercontent.com/Kapiche/nltk_data/gh-pages/packages
 
 pkg_index:
 	$(PYTHON) tools/build_collections.py .
