@@ -118,6 +118,7 @@
     <package id="wordnet2021" name="Open English Wordnet 2021" version="2021" license="This resource is derived from Princeton WordNet under the WordNet License and further developed under the Creative Commons Attribution 4.0 International License. You may share and adapt this resource providing attribution is given to both Princeton WordNet and the Open English WordNet team." copyright="Open English Wordnet 2021 Copyright 2021 by the Open English Wordnet team. WordNet 3.1 Copyright 2011 by Princeton University. All rights reserved." webpage="https://en-word.net/" unzip="0" unzipped_size="38408913" size="11332750" checksum="99da08a34df218457c3233d6a3dd31b8" subdir="corpora" url="https://raw.githubusercontent.com/Kapiche/nltk_data/gh-pages/packages/corpora/wordnet2021.zip" />
     <package id="wordnet2022" name="Open English Wordnet 2022" version="2022" license="This resource is derived from Princeton WordNet under the WordNet License and further developed under the Creative Commons Attribution 4.0 International License. You may share and adapt this resource providing attribution is given to both Princeton WordNet and the Open English WordNet team." copyright="Open English Wordnet 2022 Copyright 2022 by the Open English Wordnet team. WordNet 3.1 Copyright 2011 by Princeton University. All rights reserved." webpage="https://en-word.net/" unzip="1" unzipped_size="38474234" size="11353460" checksum="0b17803d0d8b85ad25b5037af83d6a1c" subdir="corpora" url="https://raw.githubusercontent.com/Kapiche/nltk_data/gh-pages/packages/corpora/wordnet2022.zip" />
     <package id="wordnet2023" name="Open English Wordnet 2023" version="2023" license="This resource is derived from Princeton WordNet under the WordNet License and further developed under the Creative Commons Attribution 4.0 International License. You may share and adapt this resource providing attribution is given to both Princeton WordNet and the Open English WordNet team." copyright="Open English Wordnet 2023 Copyright 2023 by the Open English Wordnet team. WordNet 3.1 Copyright 2011 by Princeton University. All rights reserved." webpage="https://en-word.net/" unzip="1" unzipped_size="38710092" size="11420082" checksum="800547f4b84232412d6dcb4541bcdc2d" subdir="corpora" url="https://raw.githubusercontent.com/Kapiche/nltk_data/gh-pages/packages/corpora/wordnet2023.zip" />
+    <package id="wordnet2024" name="Open English Wordnet 2024" version="2024" license="This resource is derived from Princeton WordNet under the WordNet License and further developed under the Creative Commons Attribution 4.0 International License. You may share and adapt this resource providing attribution is given to both Princeton WordNet and the Open English WordNet team." copyright="Open English Wordnet 2024 Copyright 2024 by the Open English Wordnet team. WordNet 3.1 Copyright 2011 by Princeton University. All rights reserved." webpage="https://en-word.net/" unzip="1" unzipped_size="38860076" size="11466666" checksum="98b89e44b0fd46f7a2a63d5a09d88b2d" subdir="corpora" url="https://raw.githubusercontent.com/Kapiche/nltk_data/gh-pages/packages/corpora/wordnet2024.zip" />
     <package id="wordnet31" name="Wordnet 3.1" version="3.1" license="Permission to use, copy, modify and distribute this software and database and its documentation for any purpose and without fee or royalty is hereby granted, provided that you agree to comply with the following copyright notice and statements, including the disclaimer, and that the same appear on ALL copies of the software, database and documentation, including modifications that you make for internal use or for distribution.... [see webpage for full license]" copyright="WordNet 3.1 Copyright 2011 by Princeton University.  All rights reserved." webpage="http://wordnet.princeton.edu/" unzip="0" unzipped_size="37411975" size="11058667" checksum="d3392d6facef35433ffcef838b47cae1" subdir="corpora" url="https://raw.githubusercontent.com/Kapiche/nltk_data/gh-pages/packages/corpora/wordnet31.zip" />
     <package id="wordnet_ic" name="WordNet-InfoContent" version="3.0" webpage="http://wn-similarity.sourceforge.net" unzip="1" unzipped_size="34220359" size="12056682" checksum="25f0185b31693fa11ea898e4feda528c" subdir="corpora" url="https://raw.githubusercontent.com/Kapiche/nltk_data/gh-pages/packages/corpora/wordnet_ic.zip" />
     <package id="words" name="Word Lists" webpage="http://en.wikipedia.org/wiki/Words_(Unix)" license="public domain" copyright="public domain" unzip="1" unzipped_size="2498552" size="757777" checksum="8594d9d5422e01d993dfbbc3f38d3ae5" subdir="corpora" url="https://raw.githubusercontent.com/Kapiche/nltk_data/gh-pages/packages/corpora/words.zip" />
@@ -241,6 +242,7 @@
       <item ref="wordnet2021" />
       <item ref="wordnet2022" />
       <item ref="wordnet2023" />
+      <item ref="wordnet2024" />
       <item ref="wordnet31" />
       <item ref="wordnet_ic" />
       <item ref="words" />
@@ -335,6 +337,7 @@
       <item ref="wordnet2021" />
       <item ref="wordnet2022" />
       <item ref="wordnet2023" />
+      <item ref="wordnet2024" />
       <item ref="wordnet31" />
       <item ref="wordnet_ic" />
       <item ref="words" />
@@ -457,6 +460,7 @@
       <item ref="wordnet2021" />
       <item ref="wordnet2022" />
       <item ref="wordnet2023" />
+      <item ref="wordnet2024" />
       <item ref="wordnet31" />
       <item ref="wordnet_ic" />
       <item ref="words" />
